@@ -1,0 +1,36 @@
+.jumbotron {
+    text-align: center;
+    background: url("https://i.pinimg.com/originals/7d/7c/79/7d7c79f57f2bf8fc2b43b9a5e5a2a96b.gif");
+    background-position: center;
+    background-size: cover;
+}
+
+.jumbotron .display-4 {
+    font-family: 'Martel', cursive;
+}
+
+.jumbotron .lead {
+    background-color: rgb(255, 255, 255, 0.5);
+    padding: 10px 20px 10px 20px;
+}
+
+.jumbotron .btn {
+    padding: 10px 50px;
+    background-color: rgb(201, 147, 201, 0.5);
+    border: 2px solid white;
+}
+
+.jumbotron .btn:hover {
+    color: white;
+    border-color: currentColor;
+    background-color: rgb(201, 147, 201, 1);
+}
+
+.navbar {
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+.carousel-inner {
+    padding: 40px 5px;
+}
